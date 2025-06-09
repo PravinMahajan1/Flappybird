@@ -1,14 +1,32 @@
-# Run and deploy your AI Studio app
+# Flappy Bird.
 
-This contains everything you need to run your app locally.
+A modern browser-based clone of the classic **Flappy Bird** game, built using typescript. This version captures the original game's simplicity and addictive gameplay while being fully responsive and mobile-friendly.
 
-## Run Locally
+🔗 **Live Demo**: https://flappybird-theta-seven.vercel.app/
 
-**Prerequisites:**  Node.js
+## 📸 Preview
+
+![Screenshot 2025-06-09 142451](https://github.com/user-attachments/assets/9744556d-ca6c-4c16-96d9-0ed2d92fc190)
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+## 🚀 Features
+
+- Smooth and responsive gameplay
+- Accurate Flappy Bird mechanics (gravity, jumping, collision)
+- Dynamic pipe generation with increasing difficulty
+- Score tracking
+- Game over and restart functionality
+- Deployed on **Vercel**
+
+## 📦 Installation
+
+# 1. Clone the repository
+git clone https://github.com/yourusername/flappy-bird-clone.git
+
+# 2. Navigate into the project directory
+cd flappy-bird-clone
+npm install
+npm run dev
+
+
